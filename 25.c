@@ -1,0 +1,1 @@
+// Workers in a factory work for 8 hours a day and get monthly 20000/-. Write a program that takes number of working hours of a worker as input. Find how many hours he works as overtime. Calculate the amount of bonus he receives (5% bonus for 2 hours overtime, 7% bonus for 4 hours overtime, 10% bonus for 6 hours overtime, otherwise 0%).

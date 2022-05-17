@@ -1,0 +1,1 @@
+// Write a program to display the following series. 1 5 10 15 20 25.…..
